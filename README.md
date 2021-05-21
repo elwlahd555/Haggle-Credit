@@ -52,16 +52,6 @@
 
 
 <br></br>
-# 💻Dev Contents
-> <h3><font color="red">Front-End</font></h3>
-추후 기입 예정
-> <h3><font color="blue">Back-end</font></h3>
-추후 기입 예정
-> <h3><font color="green">Database</font></h3>
-추후 기입 예정
-> <h3><font color="purple">Server</font></h3>
-추후 기입 예정
-<br></br>
 # 📝Non-Dev Contents
 > <h3><font color="red">JIRA</font></h3>
 ![readme_jira](/uploads/b88e3d509e26fe3b64716d87cf3709df/readme_jira.gif)
@@ -72,13 +62,11 @@
 추후 기입 예정
 
 # 📌References
-개발 시, 참고한 사이트들...
-
+G마켓, 번개장터, 신세계몰(SSG)
 
 <br></br>
 # 🕺Team. E-gemmerce
-사진 넣을 예정 (최종발표 ppt 작성 시, 만든 내용 발췌)
-
+![팀원소개](/uploads/5eb6f21fc66f5389a1d6e61a5140c077/팀원소개.PNG)
 
 <br></br>
 # 🛠Dev Skills
