@@ -58,8 +58,8 @@
 > <h3><font color="blue">Notion</font></h3>
 <p align="center"><a href="https://www.notion.so/oct14jh/Haggle-Credit-5504f21c3ea14758be4bc81b1c369264" target="_blank">👉'Haggle-Credit' Notion 구경하러 가기👈 </a></p>
 
-> <h3><font color="green">Locust</font></h3>
-추후 기입 예정
+> 
+<br></br>
 
 # 📌References
 G마켓, 번개장터, 신세계몰(SSG)
