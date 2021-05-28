@@ -1,42 +1,31 @@
-
-
 ![Haggle-Credit-ICON](https://lab.ssafy.com/s04-final/s04p31d107/uploads/34f9332f3b9d8518065843e773018810/Haggle-Credit-ICON.PNG)
 
 ## 🌐 Haggle-Credit ?
 
-<font size="5" color="orange">***Haggle-Credit***</font>  프로젝트는 중고 거래 및 경매 기반 이커머스 웹 서비스 프로젝트입니다. 주요 기획 의도는 <strong>개발진의 역량 향상</strong>과 <strong>이커머스 서비스 개발 경험</strong>이였습니다. 그래서 클론 코딩을 하기보다는 자체적으로 개발을 하면서 이커머스 서비스를 분석하면서 최대한 이커머스 웹 서비스 다운 서비스를 제공하고자 하였습니다.
+<font size="5" color="orange">**_Haggle-Credit_**</font> 프로젝트는 중고 거래 및 경매 기반 이커머스 웹 서비스 프로젝트입니다. 주요 기획 의도는 <strong>개발진의 역량 향상</strong>과 <strong>이커머스 서비스 개발 경험</strong>이였습니다. 그래서 클론 코딩을 하기보다는 자체적으로 개발을 하면서 이커머스 서비스를 분석하면서 최대한 이커머스 웹 서비스 다운 서비스를 제공하고자 하였습니다.
 
 - `Haggle-Credit` : '흥정하다'를 의미하는 'Haggle' 그리고 '신용,거래'를 의미하는 'Credit'의 합성어
 - `E-gemmerce` : '이게 진정한 이커머스다'의 뜻을 담고자, E-Commerce(이커머스)를 변형한 단어
 - [🛒**`Haggle Credit 바로가기`** ](https://hagglecredit.com/)
 
-
-
-
-
 ## 💡 Description
 
 ![readme_init](README.assets/readme_init.gif)
 
-> <h3><font color="red">프로젝트 기획 배경</font></h3> 
+> <h3><font color="red">프로젝트 기획 배경</font></h3>
 
 <h5>프로젝트 기획 배경은 다음과 같습니다.</h5>
 <ul>
 	<li>✔️언택트 시대의 대표 서비스, 이커머스 서비스 개발 경험</li>
-	<li>✔️역량 향상 :  <code><font color="blue"><b>React</b></font></code>, <code><font color="blue"><b>TypeScript</b></font></code>, 	<code><font color="lime"><b>Spring Security</b></font></code>, <code><font color="green"><b>Spring JPA</b></font></code>, <code><font color="blue"><b>Kubernetes</b></font></code></li>
+	<li>✔️역량 향상 :  <code><font color="blue"><b>React</b></font></code>, <code><font color="blue"><b>TypeScript</b></font></code>, 	<code><font color="lime"><b>Spring Security</b></font></code>, <code><font color="green"><b>Spring JPA</b></font></code>, <code><font color="blue"><b>Docker</b></font></code>, <code><font color="blue"><b>Jenkins</b></font></code>, <code><font color="blue"><b>NGINX</b></font></code></li>
 	<li>✔️경매를 통한 팔리지 않는 물품 판매 처리</li>
 	<li>✔️최적의 가격에 물품을 구매할 수 있는 기회 제공</li>
 </ul>
-
-
-
 
 > <h3><font color="blue">프로젝트 서비스 요약</font></h3>
 
 <p>
 서비스를 간단히 요약하자면, "<font color=orange>경매 기반 중고 거래 플랫폼인 이커머스 웹 서비스</font>"입니다. 이커머스 서비스의 구조를 최대한 따라가되, 리액트 등 좀 더 진보된 기술들을 활용함으로써 역량 향상 및 이커머스 서비스를 개발하고자 하였습니다. 기존에 존재하는 이커머스 서비스와 달리 경매라는 거래 방식을 도입해 구매자는 좀 더 싸게 살 수 있는 '역경매', 판매자는 자신의 물건이 어떻게든 팔리어 처리할 수 있게 되는 그리고 포인트 환전을 통한 사기방지를 추구하고자 하였습니다.</p>
-
-
 
 >  <h3><font color="green">주요 서비스 기능</font></h3>
 
@@ -48,19 +37,13 @@
 	<li>⭐️거래자들을 위한 팔리지 않은 물건들은 좀 더 싼 가격에 팔아주는 이벤트 경매</li>
 </ul>
 
-
-
 ## 🧩 Design
 
 > <h3><font color="red">WireFrame</font></h3>
->
 
 ![readme_wireframe](README.assets/readme_wireframe-1621930497931.gif)
 
-
-
 > <h3><font color="blue">ERD</font></h3>
->
 
 ![image-20210525171541831](README.assets/image-20210525171541831.png)
 
@@ -68,46 +51,35 @@
 
 ![readme_func_spec](README.assets/readme_func_spec-1621930503463.gif)
 
-
-
 > <h3><font color="purple">Sequence Diagram</font></h3>
 
 ![readme_sequence](README.assets/readme_sequence-1621930494551.gif)
 
-
-
 ## 🌎 Browser Support
 
 | <img src="https://user-images.githubusercontent.com/1215767/34348387-a2e64588-ea4d-11e7-8267-a43365103afe.png" alt="Chrome" width="16px" height="16px" /> Chrome | <img src="https://user-images.githubusercontent.com/1215767/34348590-250b3ca2-ea4f-11e7-9efb-da953359321f.png" alt="IE" width="16px" height="16px" /> Internet Explorer | <img src="https://user-images.githubusercontent.com/1215767/34348380-93e77ae8-ea4d-11e7-8696-9a989ddbbbf5.png" alt="Edge" width="16px" height="16px" /> Edge | <img src="https://user-images.githubusercontent.com/1215767/34348394-a981f892-ea4d-11e7-9156-d128d58386b9.png" alt="Safari" width="16px" height="16px" /> Safari | <img src="https://user-images.githubusercontent.com/1215767/34348383-9e7ed492-ea4d-11e7-910c-03b39d52f496.png" alt="Firefox" width="16px" height="16px" /> Firefox |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                             Yes                              |                              No                              |                             Yes                              |                             Yes                              |                             Yes                              |
-
-
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                               Yes                                                                                |                                                                                   No                                                                                    |                                                                             Yes                                                                              |                                                                               Yes                                                                                |                                                                                Yes                                                                                 |
 
 ## 📦 Packages (M)
 
 1. **Front-end**
 
-   | Name                  | Description                                                  |
-   | --------------------- | ------------------------------------------------------------ |
-   | axios                 | Promise based HTTP client for the browser and node.js        |
-   | http-proxy-middleware | Node.js proxying made simple.                                |
-   | react                 | React is a JavaScript library for building user interfaces.  |
-   | react-redux           | React Redux is the official React UI bindings layer for Redux. |
-   | react-router-dom      | DOM bindings for React Router.                               |
-   | redux                 | Redux is a predictable state container for JavaScript apps.  |
-   | redux-persist         | Persist and rehydrate a redux store.                         |
-   | sockjs-client         | SockJS is a browser JavaScript library that provides a WebSocket-like object. |
-   | styled-components     | `styled-components` allows you to write actual CSS code to style components |
-   | typescript            | TypeScript is a language for application-scale JavaScript.   |
+   | Name                  | Description                                                                          |
+   | --------------------- | ------------------------------------------------------------------------------------ |
+   | axios                 | Promise based HTTP client for the browser and node.js                                |
+   | http-proxy-middleware | Node.js proxying made simple.                                                        |
+   | react                 | React is a JavaScript library for building user interfaces.                          |
+   | react-redux           | React Redux is the official React UI bindings layer for Redux.                       |
+   | react-router-dom      | DOM bindings for React Router.                                                       |
+   | redux                 | Redux is a predictable state container for JavaScript apps.                          |
+   | redux-persist         | Persist and rehydrate a redux store.                                                 |
+   | sockjs-client         | SockJS is a browser JavaScript library that provides a WebSocket-like object.        |
+   | styled-components     | `styled-components` allows you to write actual CSS code to style components          |
+   | typescript            | TypeScript is a language for application-scale JavaScript.                           |
    | use-count-up          | React/React Native component and hook to animate<br/>counting up or down to a number |
 
-
- 2. **Back-end**
-
-    
-
-
+2. **Back-end**
 
 ## 📚 준비하기
 
@@ -125,7 +97,7 @@ git clone https://lab.ssafy.com/s04-final/s04p31d107.git
 CREATE SCHEMA `Haggle_Credit`;
 ```
 
--  필요한 테이블 생성 => backend 폴더 내 sql문 파일 활용
+- 필요한 테이블 생성 => backend 폴더 내 sql문 파일 활용
 
 3. [**Backend**] application.properties 설정
 
@@ -139,7 +111,7 @@ server.servlet.context-path=/haggle-credit
 # for social login
 spring.profiles.include=oauth
 
-# fileupload 
+# fileupload
 spring.servlet.multipart.enabled=true
 spring.servlet.multipart.max-file-size=20MB
 spring.servlet.multipart.max-request-size=30MB
@@ -178,8 +150,6 @@ yarn install
 npm install
 ```
 
-
-
 ## 🏁 실행하기
 
 **Back-end**
@@ -193,6 +163,7 @@ mvn -B -DskipTests -f backend
 ```
 
 - 백엔드 실행
+
   - 생성한 jar 파일 실행
 
     ```
@@ -216,8 +187,6 @@ yarn serve
 npm start
 ```
 
-
-
 ## 🖥 배포하기
 
 해당 서비스는 AWS EC2를 통해 배포하였고
@@ -238,11 +207,9 @@ Docker와 Jenkins를 이용해 CI/CD 구축하였습니다 :)
    3. Run (컨테이너 실행)
 9. `docker ps` 를 통해 frontend, backend, django 컨테이너가 실행되는 것을 확인 (Jenkins, MySQL 포함)
 
-
-
 ## 💻 서비스 주요 기능
 
-1) 로그인 및 보안·인증 관리 (+결제)
+1. 로그인 및 보안·인증 관리 (+결제)
 
 - 본인 이메일 인증을 통해서만 가입 (**이메일 인증 링크** 확인 절차)
 
@@ -260,9 +227,7 @@ Docker와 Jenkins를 이용해 CI/CD 구축하였습니다 :)
 
 ![Untitled 4](README.assets/Untitled%204.png)
 
-
-
-2) 판매 서비스
+2. 판매 서비스
 
 - 판매 상품명 내용, 카테고리, 이미지 등을 작성하면 **판매 등록**
 
@@ -272,9 +237,7 @@ Docker와 Jenkins를 이용해 CI/CD 구축하였습니다 :)
 
 ![Untitled 6](README.assets/Untitled%206.png)
 
-
-
-3) 구매 서비스
+3. 구매 서비스
 
 - 구매 상품명 내용, 카테고리, 이미지 등을 작성하면 **구매 등록**
 
@@ -284,7 +247,7 @@ Docker와 Jenkins를 이용해 CI/CD 구축하였습니다 :)
 
 ![Untitled 8](README.assets/Untitled%208.png)
 
-4) 경매 서비스
+4. 경매 서비스
 
 - 판매의 즉시거래가가 아닌, **입찰가를 통해 자동 경매 진행**
 
@@ -296,13 +259,13 @@ Docker와 Jenkins를 이용해 CI/CD 구축하였습니다 :)
 
 - 입찰 시, 포인트는 미리 귀속되기에 **무차별적 입찰 진행 차단** 및 빠른 자동 거래까지 진행
 
-5) 역경매 서비스
+5. 역경매 서비스
 
 - 구매자의 즉시 거래가 보다 더 싸게 팔아 거래가 원활히 진행되고자 기획
 
 ![Untitled 11](README.assets/Untitled%2011.png)
 
-6) 기부 서비스
+6. 기부 서비스
 
 - 구매자들은 뜻밖의 이벤트 특가로 구매 기회를, 판매자는 기부를 통한 공익 실현을 위해 기획
 
@@ -324,7 +287,7 @@ Docker와 Jenkins를 이용해 CI/CD 구축하였습니다 :)
 
 ![Untitled 15](README.assets/Untitled%2015.png)
 
-7) 상품 관련 서비스
+7. 상품 관련 서비스
 
 - 상품의 판매자에 접근하여 해당 판매자의 리뷰 확인 가능
 
@@ -334,7 +297,7 @@ Docker와 Jenkins를 이용해 CI/CD 구축하였습니다 :)
 
 ![Untitled 17](README.assets/Untitled%2017.png)
 
-8) 유저 관련 서비스
+8. 유저 관련 서비스
 
 - 프로필 등록 및 수정
 
@@ -349,8 +312,6 @@ Docker와 Jenkins를 이용해 CI/CD 구축하였습니다 :)
 ![Untitled 19](README.assets/Untitled%2019.png)
 
 ---
-
-
 
 ## 🛠 Dev Skills
 
@@ -409,12 +370,9 @@ Docker와 Jenkins를 이용해 CI/CD 구축하였습니다 :)
 </p>
 </div>
 
-
-
 ## 👨‍👦‍👦 Team. E-gemmerce
 
 > 중고 경매 기반 이커머스 웹 서비스 'Haggle-Credit' 프로젝트의 개발진들을 소개합니다
->
 
 ![Untitled 21](README.assets/Untitled%2021.png)
 
@@ -423,7 +381,7 @@ Docker와 Jenkins를 이용해 CI/CD 구축하였습니다 :)
 - 개발 파트 : **Backend**
 - 담당 개발 : **서버배포 및 관리**, REST API 개발, 영상 감독
 - 팀내 역할 : 웃음 사냥꾼
-- 개발 후기 : 서버배포를 한번쯤 하고 싶다는 생각이 들었는데, 이게머스팀에서 서버 배포를 해볼 수 있어서 너무 좋았습니다. 단지, 쿠버네티스를 활용하여 도커를 관리하며 사용하려했으나 우선순위상 작업이 밀려 활용치 못했다는게 다소 아쉬웠습니다. 기회가 된다면, 리팩토링을 하면서 쿠버네티스를 활용해 이커머스 서비스를 잘 마무리하고 싶습니다.
+- 개발 후기 : 서버에 대한 지식을 쌓고 싶었는데 이게머스팀에서 Docker와 Jenkins를 이용한 배포를 하며 데이터를 주고받는 방식 등, 관련 공부를 할 수 있어서 좋았습니다. 하지만 쿠버네티스를 활용한 서버 자원관리, 분산처리를 적용 해보고 싶었으나, 우선순위상 작업이 밀려 활용하지 못해 아쉽습니다. 리팩토링을 하며 쿠버네티스를 활용해서 조금 더 깊게 공부하고 서버를 분산, 확장시켜보고 싶습니다.
 
 #### 김지현
 
@@ -442,7 +400,7 @@ Docker와 Jenkins를 이용해 CI/CD 구축하였습니다 :)
 #### 손동민
 
 - 개발 파트 : **Frontend**
-- 담당 개발 :  유저페이지관리, 판매글 / 구매글 작성페이지, 결제시스템
+- 담당 개발 : 유저페이지관리, 판매글 / 구매글 작성페이지, 결제시스템
 - 팀내 역할 : Egemmerce
 - 개발 후기 : 프로젝트를 거듭 진행하며 새로운것을 많이 배우고, 공부할 수 있는 기회였어서 좋았습니다. 시간에 쫓기며 개발을 하다보니 디테일한 부분에서 조금 미흡했어서 아쉬웠습니다. 이 부분들을 리팩토링해보며 부족했던 부분들을 다시 보완할 계획입니다.
 
@@ -453,13 +411,9 @@ Docker와 Jenkins를 이용해 CI/CD 구축하였습니다 :)
 - 팀내 역할 : 부팀장
 - 개발 후기 : 새로운 기술인 TypeScript를 React에 적용해보면서 실력이 한층 더 성장한 것을 느꼈고, 앞으로 꾸준히 공부해 더욱 성장할 수 있는 개발자가 되어야겠다고 생각했습니다.
 
-
-
 ## 📝 Non-Dev Contents
 
 ## ![readme_jira](README.assets/readme_jira.gif)
-
-
 
 ## 💬 Documents
 
@@ -467,16 +421,12 @@ Docker와 Jenkins를 이용해 CI/CD 구축하였습니다 :)
 - <a href="https://drive.google.com/file/d/1fGGDVcdQsfXFqQi3PVNhsJVgMEI6tBpW/view" _blank="new"><strong>최종발표PPT</strong></a> 바로가기
 - <a href="https://youtu.be/5QDVILeJgYY" _blank="new"><strong>최종영상</strong></a> 바로가기
 
-
-
 ## 📌 References
 
 - 🛍<a href="http://shinsegaemall.ssg.com/" _blank="new">신세계몰(SSG)</a>
 - 🛍<a href="https://m.bunjang.co.kr/" _blank="new">번개장터</a>
 - 🛍<a href="https://www.gmarket.co.kr/" _blank="new">G-마켓</a>
 - 🖥<a href="https://www.inflearn.com/" _blank="new">기타 기술 참고 사이트</a>
-
-
 
 # 🏷License
 
